@@ -1,0 +1,38 @@
+
+SIMULATING FCFS WITH MEMORY MANAGEMENT
+Time of transition,PID,Old State,New State
+0,1,NEW,READY
+Total Memory In Use: 0
+Memory Partitions Used: 0
+Total Memory Free: 0
+Usable Free Memory: 0
+0,1,READY,RUNNING
+4,2,NEW,READY
+Total Memory In Use: 0
+Memory Partitions Used: 1
+Total Memory Free: 1000
+Usable Free Memory: 0
+6,3,NEW,READY
+Total Memory In Use: 0
+Memory Partitions Used: 1
+Total Memory Free: 1000
+Usable Free Memory: 0
+7,4,NEW,READY
+Total Memory In Use: 0
+Memory Partitions Used: 1
+Total Memory Free: 1000
+Usable Free Memory: 0
+8,5,NEW,READY
+Total Memory In Use: 0
+Memory Partitions Used: 1
+Total Memory Free: 1000
+Usable Free Memory: 0
+9,1,RUNNING,TERMINATED
+9,2,READY,RUNNING
+11,2,RUNNING,TERMINATED
+11,3,READY,RUNNING
+16,3,RUNNING,TERMINATED
+16,4,READY,RUNNING
+19,4,RUNNING,TERMINATED
+19,5,READY,RUNNING
+26,5,RUNNING,TERMINATED
