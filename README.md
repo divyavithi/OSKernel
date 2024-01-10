@@ -1,4 +1,4 @@
-# SYSC 4001 Assignment 2 
+# OS Kernel Scheduler Simulator
 
 The base of the main.c script was provided by Prof. Wainer. Claire Villanueva and Divya Vithiyatharan expanded on the
 code to implement different scheduler types and memory management.
